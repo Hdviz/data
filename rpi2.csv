@@ -1,102 +1,102 @@
-DUREE;DOSE;SPECIALITE
-19;3848;Cardiologie
-30;3109;Cardiologie
-9;2421;Chirurgie Vasculaire
-8;1996;Cardiologie
-5;1974;Chirurgie Vasculaire
-4;1846;Chirurgie Vasculaire
-15;1597;Cardiologie
-25;1542;Cardiologie
-11;1482;Cardiologie
-9;1212;Cardiologie
-4;986;Orthopedie
-7;977;Cardiologie
-1;545;Urologie
-4;542;Cardiologie
-7;527;Cardiologie
-6;513;Cardiologie
-1;500;Orthopedie
-2;378;Urologie
-0;358;Urologie
-25;323;Chirurgie Digestive
-3;309;Orthopedie
-3;294;Cardiologie
-1;275;Orthopedie
-0;239;Urologie
-140;216;Urologie
-1;192;Orthopedie
-0;169;Chirurgie Digestive
-1;156;Orthopedie
-1;149;Cardiologie
-6;131;Chirurgie Vasculaire
-14;128;Urologie
-2;116;Orthopedie
-6;112;Orthopedie
-0;100;Urologie
-13;96;Chirurgie Digestive
-0;87;Urologie
-100;74;Orthopedie
-0;67;Orthopedie
-1;61;Orthopedie
-0;59;Urologie
-0;56;Chirurgie Digestive
-1;54;Orthopedie
-0;48;Orthopedie
-13;40;Chirurgie Digestive
-52;40;Orthopedie
-0;37;Urologie
-0;36;Chirurgie Digestive
-1;36;Orthopedie
-0;34;Orthopedie
-0;30;ORL
-22;27;Orthopedie
-12;26;Orthopedie
-0;26;Orthopedie
-0;24;Chirurgie Digestive
-5;23;Urologie
-0;21;Chirurgie Digestive
-0;21;Urologie
-9;20;Chirurgie Digestive
-2384;18;Cardiologie
-0;18;Orthopedie
-0;16;Gynecologie
-0;15;Chirurgie Digestive
-0;15;Orthopedie
-0;13;Chirurgie Digestive
-0;12;Orthopedie
-0;12;Chirurgie Digestive
-0;10;Orthopedie
-0;9;Urologie
-2;9;Chirurgie Digestive
-0;9;Chirurgie Digestive
-9;9;Chirurgie Digestive
-0;7;Chirurgie Digestive
-0;7;Orthopedie
-0;7;ORL
-4;6;Chirurgie Digestive
-0;6;Orthopedie
-30;6;Orthopedie
-0;5;Orthopedie
-0;4;Gynecologie
-0;4;Orthopedie
-0;4;Orthopedie
-42;3;Orthopedie
-0;3;Orthopedie
-0;2;Chirurgie Digestive
-0;2;Orthopedie
-11;2;Orthopedie
-0;1;Gynecologie
-0;1;Orthopedie
-0;1;Orthopedie
-0;1;Orthopedie
-0;1;Orthopedie
-0;1;Orthopedie
-0;1;Orthopedie
-0;1;Orthopedie
-0;0;Orthopedie
-0;0;Orthopedie
-2;0;Orthopedie
-0;0;Orthopedie
-0;0;Orthopedie
-8;0;Orthopedie
-0;0;Orthopedie
+DUREE,DOSE,SPECIALITE
+19,3848,Cardiologie
+30,3109,Cardiologie
+9,2421,Chirurgie Vasculaire
+8,1996,Cardiologie
+5,1974,Chirurgie Vasculaire
+4,1846,Chirurgie Vasculaire
+15,1597,Cardiologie
+25,1542,Cardiologie
+11,1482,Cardiologie
+9,1212,Cardiologie
+4,986,Orthopedie
+7,977,Cardiologie
+1,545,Urologie
+4,542,Cardiologie
+7,527,Cardiologie
+6,513,Cardiologie
+1,500,Orthopedie
+2,378,Urologie
+0,358,Urologie
+25,323,Chirurgie Digestive
+3,309,Orthopedie
+3,294,Cardiologie
+1,275,Orthopedie
+0,239,Urologie
+140,216,Urologie
+1,192,Orthopedie
+0,169,Chirurgie Digestive
+1,156,Orthopedie
+1,149,Cardiologie
+6,131,Chirurgie Vasculaire
+14,128,Urologie
+2,116,Orthopedie
+6,112,Orthopedie
+0,100,Urologie
+13,96,Chirurgie Digestive
+0,87,Urologie
+100,74,Orthopedie
+0,67,Orthopedie
+1,61,Orthopedie
+0,59,Urologie
+0,56,Chirurgie Digestive
+1,54,Orthopedie
+0,48,Orthopedie
+13,40,Chirurgie Digestive
+52,40,Orthopedie
+0,37,Urologie
+0,36,Chirurgie Digestive
+1,36,Orthopedie
+0,34,Orthopedie
+0,30,ORL
+22,27,Orthopedie
+12,26,Orthopedie
+0,26,Orthopedie
+0,24,Chirurgie Digestive
+5,23,Urologie
+0,21,Chirurgie Digestive
+0,21,Urologie
+9,20,Chirurgie Digestive
+2384,18,Cardiologie
+0,18,Orthopedie
+0,16,Gynecologie
+0,15,Chirurgie Digestive
+0,15,Orthopedie
+0,13,Chirurgie Digestive
+0,12,Orthopedie
+0,12,Chirurgie Digestive
+0,10,Orthopedie
+0,9,Urologie
+2,9,Chirurgie Digestive
+0,9,Chirurgie Digestive
+9,9,Chirurgie Digestive
+0,7,Chirurgie Digestive
+0,7,Orthopedie
+0,7,ORL
+4,6,Chirurgie Digestive
+0,6,Orthopedie
+30,6,Orthopedie
+0,5,Orthopedie
+0,4,Gynecologie
+0,4,Orthopedie
+0,4,Orthopedie
+42,3,Orthopedie
+0,3,Orthopedie
+0,2,Chirurgie Digestive
+0,2,Orthopedie
+11,2,Orthopedie
+0,1,Gynecologie
+0,1,Orthopedie
+0,1,Orthopedie
+0,1,Orthopedie
+0,1,Orthopedie
+0,1,Orthopedie
+0,1,Orthopedie
+0,1,Orthopedie
+0,0,Orthopedie
+0,0,Orthopedie
+2,0,Orthopedie
+0,0,Orthopedie
+0,0,Orthopedie
+8,0,Orthopedie
+0,0,Orthopedie
