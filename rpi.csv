@@ -1,60 +1,60 @@
-DOSE,SPECIALITE
-3847,Cardiologie
-3108,Cardiologie
-2420,Chirurgie Vasculaire
-1996,Cardiologie
-1974,Chirurgie Vasculaire
-1846,Chirurgie Vasculaire
-1597,Cardiologie
-1542,Cardiologie
-1482,Cardiologie
-1212,Cardiologie
-986,Orthopedie
-977,Cardiologie
-544,Urologie
-541,Cardiologie
-527,Cardiologie
-512,Cardiologie
-500,Orthopedie
-378,Urologie
-357,Urologie
-323,Chirurgie Digestive
-309,Orthopedie
-294,Cardiologie
-275,Orthopedie
-239,Urologie
-216,Urologie
-192,Orthopedie
-169,Chirurgie Digestive
-155,Orthopedie
-149,Cardiologie
-131,Chirurgie Vasculaire
-127,Urologie
-115,Orthopedie
-112,Orthopedie
-99,Urologie
-95,Chirurgie Digestive
-87,Urologie
-74,Orthopedie
-67,Orthopedie
-61,Orthopedie
-58,Urologie
-56,Chirurgie Digestive
-53,Orthopedie
-47,Orthopedie
-40,Chirurgie Digestive
-40,Orthopedie
-36,Urologie
-36,Chirurgie Digestive
-35,Orthopedie
-34,Orthopedie
-30,ORL
-26,Orthopedie
-26,Orthopedie
-25,Orthopedie
-24,Chirurgie Digestive
-22.,Urologie
-21,Chirurgie Digestive
-20,Urologie
-20,Chirurgie Digestive
-18,Cardiologie
+DOSE;SPECIALITE
+3847;Cardiologie
+3108;Cardiologie
+2420;Chirurgie Vasculaire
+1996;Cardiologie
+1974;Chirurgie Vasculaire
+1846;Chirurgie Vasculaire
+1597;Cardiologie
+1542;Cardiologie
+1482;Cardiologie
+1212;Cardiologie
+986;Orthopedie
+977;Cardiologie
+544;Urologie
+541;Cardiologie
+527;Cardiologie
+512;Cardiologie
+500;Orthopedie
+378;Urologie
+357;Urologie
+323;Chirurgie Digestive
+309;Orthopedie
+294;Cardiologie
+275;Orthopedie
+239;Urologie
+216;Urologie
+192;Orthopedie
+169;Chirurgie Digestive
+155;Orthopedie
+149;Cardiologie
+131;Chirurgie Vasculaire
+127;Urologie
+115;Orthopedie
+112;Orthopedie
+99;Urologie
+95;Chirurgie Digestive
+87;Urologie
+74;Orthopedie
+67;Orthopedie
+61;Orthopedie
+58;Urologie
+56;Chirurgie Digestive
+53;Orthopedie
+47;Orthopedie
+40;Chirurgie Digestive
+40;Orthopedie
+36;Urologie
+36;Chirurgie Digestive
+35;Orthopedie
+34;Orthopedie
+30;ORL
+26;Orthopedie
+26;Orthopedie
+25;Orthopedie
+24;Chirurgie Digestive
+22.;Urologie
+21;Chirurgie Digestive
+20;Urologie
+20;Chirurgie Digestive
+18;Cardiologie
