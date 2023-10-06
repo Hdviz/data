@@ -1,102 +1,102 @@
-DUREE,DOSE,SPECIALITE
-19.12,3847.56,Cardiologie
-30.3,3108.57,Cardiologie
-9.41,2420.98,Chirurgie Vasculaire
-7.52,1996.45,Cardiologie
-4.57,1974.09,Chirurgie Vasculaire
-4,1846.46,Chirurgie Vasculaire
-15.18,1597.47,Cardiologie
-25.13,1542.12,Cardiologie
-10.55,1482.48,Cardiologie
-9.28,1212.04,Cardiologie
-4.24,986.03,Orthopedie
-7.38,977.46,Cardiologie
-1.42,544.98,Urologie
-4.39,541.86,Cardiologie
-7.12,527.4,Cardiologie
-6.08,512.69,Cardiologie
-1.41,500.21,Orthopedie
-1.51,378.49,Urologie
-0.47,357.74,Urologie
-25,323.42,Chirurgie Digestive
-3.12,309.12,Orthopedie
-3.07,294.33,Cardiologie
-0.5,275.24,Orthopedie
-0.27,239,Urologie
-140,216.46,Urologie
-1.04,192,Orthopedie
-0.32,169.07,Chirurgie Digestive
-1.25,155.68,Orthopedie
-1.06,149.15,Cardiologie
-6.14,131.37,Chirurgie Vasculaire
-14,127.92,Urologie
-2.38,115.63,Orthopedie
-6.26,112.35,Orthopedie
-0.05,99.54,Urologie
-13,95.68,Chirurgie Digestive
-0.21,87.44,Urologie
-100,74.25,Orthopedie
-0.45,67.33,Orthopedie
-0.5,61.46,Orthopedie
-0.03,58.55,Urologie
-0.13,56.08,Chirurgie Digestive
-0.51,53.88,Orthopedie
-0.34,47.8,Orthopedie
-13,40.36,Chirurgie Digestive
-52,40.04,Orthopedie
-0.09,36.66,Urologie
-0.06,36.35,Chirurgie Digestive
-1.25,35.89,Orthopedie
-0.09,34.02,Orthopedie
-0.1,30.08,ORL
-22,26.6,Orthopedie
-12,26.06,Orthopedie
-0.3,25.64,Orthopedie
-0.22,24.38,Chirurgie Digestive
-5,22.92,Urologie
-0.1,21.15,Chirurgie Digestive
-0.06,20.91,Urologie
-9,20.06,Chirurgie Digestive
-2383.57,18.01,Cardiologie
-0.18,17.86,Orthopedie
-0.08,16.39,Gynecologie
-0.07,15.47,Chirurgie Digestive
-0.38,14.83,Orthopedie
-0.12,13.4,Chirurgie Digestive
-0.21,12.03,Orthopedie
-0.03,11.92,Chirurgie Digestive
-0.22,9.58,Orthopedie
-0.07,9.31,Urologie
-2,9.16,Chirurgie Digestive
-0.03,8.64,Chirurgie Digestive
-9,8.61,Chirurgie Digestive
-0.04,7.31,Chirurgie Digestive
-0.07,7.18,Orthopedie
-0.27,6.53,ORL
-4,6.28,Chirurgie Digestive
-0.29,6.24,Orthopedie
-30,5.93,Orthopedie
-0.22,5.2,Orthopedie
-0.02,4.24,Gynecologie
-0.16,4.2,Orthopedie
-0.1,4.11,Orthopedie
-42,3.06,Orthopedie
-0.28,2.76,Orthopedie
-0.01,2.18,Chirurgie Digestive
-0.24,1.57,Orthopedie
-11,1.5,Orthopedie
-0.05,1.37,Gynecologie
-0.12,1.26,Orthopedie
-0.04,1.22,Orthopedie
-0.13,0.95,Orthopedie
-0.07,0.75,Orthopedie
-0.03,0.62,Orthopedie
-0.04,0.54,Orthopedie
-0.08,0.53,Orthopedie
-0.04,0.4,Orthopedie
-0.02,0.29,Orthopedie
-2,0.29,Orthopedie
-0.01,0.18,Orthopedie
-0.02,0.16,Orthopedie
-7.93,0.05,Orthopedie
-0.34,0.03,Orthopedie
+DOSE;SPECIALITE
+3847.56;Cardiologie
+3108.57;Cardiologie
+2420.98;Chirurgie Vasculaire
+1996.45;Cardiologie
+1974.09;Chirurgie Vasculaire
+1846.46;Chirurgie Vasculaire
+1597.47;Cardiologie
+1542.12;Cardiologie
+1482.48;Cardiologie
+1212.04;Cardiologie
+986.03;Orthopedie
+977.46;Cardiologie
+544.98;Urologie
+541.86;Cardiologie
+527.4;Cardiologie
+512.69;Cardiologie
+500.21;Orthopedie
+378.49;Urologie
+357.74;Urologie
+323.42;Chirurgie Digestive
+309.12;Orthopedie
+294.33;Cardiologie
+275.24;Orthopedie
+239;Urologie
+216.46;Urologie
+192;Orthopedie
+169.07;Chirurgie Digestive
+155.68;Orthopedie
+149.15;Cardiologie
+131.37;Chirurgie Vasculaire
+127.92;Urologie
+115.63;Orthopedie
+112.35;Orthopedie
+99.54;Urologie
+95.68;Chirurgie Digestive
+87.44;Urologie
+74.25;Orthopedie
+67.33;Orthopedie
+61.46;Orthopedie
+58.55;Urologie
+56.08;Chirurgie Digestive
+53.88;Orthopedie
+47.8;Orthopedie
+40.36;Chirurgie Digestive
+40.04;Orthopedie
+36.66;Urologie
+36.35;Chirurgie Digestive
+35.89;Orthopedie
+34.02;Orthopedie
+30.08;ORL
+26.6;Orthopedie
+26.06;Orthopedie
+25.64;Orthopedie
+24.38;Chirurgie Digestive
+22.92;Urologie
+21.15;Chirurgie Digestive
+20.91;Urologie
+20.06;Chirurgie Digestive
+18.01;Cardiologie
+17.86;Orthopedie
+16.39;Gynecologie
+15.47;Chirurgie Digestive
+14.83;Orthopedie
+13.4;Chirurgie Digestive
+12.03;Orthopedie
+11.92;Chirurgie Digestive
+9.58;Orthopedie
+9.31;Urologie
+9.16;Chirurgie Digestive
+8.64;Chirurgie Digestive
+8.61;Chirurgie Digestive
+7.31;Chirurgie Digestive
+7.18;Orthopedie
+6.53;ORL
+6.28;Chirurgie Digestive
+6.24;Orthopedie
+5.93;Orthopedie
+5.2;Orthopedie
+4.24;Gynecologie
+4.2;Orthopedie
+4.11;Orthopedie
+3.06;Orthopedie
+2.76;Orthopedie
+2.18;Chirurgie Digestive
+1.57;Orthopedie
+1.5;Orthopedie
+1.37;Gynecologie
+1.26;Orthopedie
+1.22;Orthopedie
+0.95;Orthopedie
+0.75;Orthopedie
+0.62;Orthopedie
+0.54;Orthopedie
+0.53;Orthopedie
+0.4;Orthopedie
+0.29;Orthopedie
+0.29;Orthopedie
+0.18;Orthopedie
+0.16;Orthopedie
+0.05;Orthopedie
+0.03;Orthopedie
