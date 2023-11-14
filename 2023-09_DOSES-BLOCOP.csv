@@ -1,44 +1,45 @@
 DOSE,SPECIALITE
-1212.04,Cardiologie
-1482.48,Cardiologie
-149.15,Cardiologie
-1542.12,Cardiologie
-1597.47,Cardiologie
 18.01,Cardiologie
-1996.45,Cardiologie
+149.15,Cardiologie
 294.33,Cardiologie
-3108.57,Cardiologie
-3847.56,Cardiologie
 512.69,Cardiologie
 527.4,Cardiologie
 541.86,Cardiologie
 977.46,Cardiologie
+1212.04,Cardiologie
+1482.48,Cardiologie
+1542.12,Cardiologie
+1597.47,Cardiologie
+1996.45,Cardiologie
+3108.57,Cardiologie
+3847.56,Cardiologie
 131.37,Chirurgie Vasculaire
 1846.46,Chirurgie Vasculaire
 1974.09,Chirurgie Vasculaire
 2420.98,Chirurgie Vasculaire
-11.92,Chirurgie Viscerale et Digestive
-13.4,Chirurgie Viscerale et Digestive
-15.47,Chirurgie Viscerale et Digestive
-169.07,Chirurgie Viscerale et Digestive
 2.18,Chirurgie Viscerale et Digestive
-20.06,Chirurgie Viscerale et Digestive
-21.15,Chirurgie Viscerale et Digestive
-24.38,Chirurgie Viscerale et Digestive
-323.42,Chirurgie Viscerale et Digestive
-36.35,Chirurgie Viscerale et Digestive
-40.36,Chirurgie Viscerale et Digestive
-56.08,Chirurgie Viscerale et Digestive
 6.28,Chirurgie Viscerale et Digestive
 7.31,Chirurgie Viscerale et Digestive
 8.61,Chirurgie Viscerale et Digestive
 8.64,Chirurgie Viscerale et Digestive
 9.16,Chirurgie Viscerale et Digestive
+11.92,Chirurgie Viscerale et Digestive
+13.4,Chirurgie Viscerale et Digestive
+15.47,Chirurgie Viscerale et Digestive
+20.06,Chirurgie Viscerale et Digestive
+21.15,Chirurgie Viscerale et Digestive
+24.38,Chirurgie Viscerale et Digestive
+36.35,Chirurgie Viscerale et Digestive
+40.36,Chirurgie Viscerale et Digestive
+56.08,Chirurgie Viscerale et Digestive
 95.68,Chirurgie Viscerale et Digestive
+169.07,Chirurgie Viscerale et Digestive
+323.42,Chirurgie Viscerale et Digestive
 1.37,Gynecologie
-16.39,Gynecologie
 4.24,Gynecologie
-192,Orthopedie
+16.39,Gynecologie
+6.53,ORL
+30.08,ORL
 0.03,Orthopedie
 0.05,Orthopedie
 0.16,Orthopedie
@@ -55,48 +56,47 @@ DOSE,SPECIALITE
 1.26,Orthopedie
 1.5,Orthopedie
 1.57,Orthopedie
-112.35,Orthopedie
-115.63,Orthopedie
+2.76,Orthopedie
+3.06,Orthopedie
+4.11,Orthopedie
+4.2,Orthopedie
+5.2,Orthopedie
+5.93,Orthopedie
+6.24,Orthopedie
+7.18,Orthopedie
+9.58,Orthopedie
 12.03,Orthopedie
 14.83,Orthopedie
-155.68,Orthopedie
 17.86,Orthopedie
-2.76,Orthopedie
 25.64,Orthopedie
 26.06,Orthopedie
 26.6,Orthopedie
-275.24,Orthopedie
-3.06,Orthopedie
-309.12,Orthopedie
 34.02,Orthopedie
 35.89,Orthopedie
-4.11,Orthopedie
-4.2,Orthopedie
 40.04,Orthopedie
 47.8,Orthopedie
-5.2,Orthopedie
-5.93,Orthopedie
-500.21,Orthopedie
 53.88,Orthopedie
-6.24,Orthopedie
 61.46,Orthopedie
 67.33,Orthopedie
-7.18,Orthopedie
 74.25,Orthopedie
-9.58,Orthopedie
+112.35,Orthopedie
+115.63,Orthopedie
+155.68,Orthopedie
+192,Orthopedie
+275.24,Orthopedie
+309.12,Orthopedie
+500.21,Orthopedie
 986.03,Orthopedie
-30.08,ORL
-6.53,ORL
-239,Urologie
-127.92,Urologie
+9.31,Urologie
 20.91,Urologie
-216.46,Urologie
 22.92,Urologie
-357.74,Urologie
 36.66,Urologie
-378.49,Urologie
-544.98,Urologie
 58.55,Urologie
 87.44,Urologie
-9.31,Urologie
 99.54,Urologie
+127.92,Urologie
+216.46,Urologie
+239,Urologie
+357.74,Urologie
+378.49,Urologie
+544.98,Urologie
