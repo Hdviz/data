@@ -1,0 +1,35 @@
+{
+    "name": "radioprotection",
+    "children": [
+     {
+      "name": "radioprotection du travailleur",
+      "children": [
+       {
+        "name": "analyse des risques",
+        "children": [
+         {"name": "cartographie des risques", "size": 3938},
+         {"name": "évaluation des risques", "size": 3812},
+         {"name": "évaluation individuelle des risques", "size": 6714},
+                     ]
+       },
+       {
+        "name": "maitrise des risques",
+        "children": [
+         {"name": "Evaluation Dosimétrique Prévisionnelle", "size": 3534},
+         {"name": "Port des dosimètres", "size": 5731},
+         {"name": "Port des tabliers plombés", "size": 7840},
+         {"name": "Zonage", "size": 5914},
+         {"name": "Régles en zone", "size": 3416}
+        ]
+       },
+       {
+        "name": "optimization",
+        "children": [
+         {"name": "AspectRatioBanker", "size": 7074}
+        ]
+       }
+      ]
+     
+     }
+    ]
+   }
